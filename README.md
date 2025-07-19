@@ -151,7 +151,7 @@ Interactive dashboard for data visualization and predictive modeling with real-t
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KK-8848&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
 </div>
 
 
@@ -190,49 +190,3 @@ SQL          1 hr 20 mins    ██░░░░░░░░░░░░░░░
 Other        20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░    2.6%
 
 
-## 📈 Contribution Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</div>
-
-## 🧠 Machine Learning Focus Areas
-
-- **Deep Learning**: Neural Networks, CNNs, RNNs, Transformers
-- **Natural Language Processing**: Text Analysis, Sentiment Analysis, Chatbots
-- **Computer Vision**: Image Classification, Object Detection, OCR
-- **Data Science**: Statistical Analysis, Data Visualization, Feature Engineering
-- **MLOps**: Model Deployment, Monitoring, CI/CD for ML
-
-
-## 🎓 Certifications & Learning
-
-- 🏅 **AWS Certified Solutions Architect**
-- 🏅 **Google Cloud Professional ML Engineer**
-- 🏅 **TensorFlow Developer Certificate**
-- 📚 Currently pursuing: **MLOps Specialization**
-
-## 🤝 Let's Connect!
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)
-
-</div>
-
-## 💡 Random Dev Quote
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-
-## 📊 Weekly Development Breakdown
-
-<!--START_SECTION:waka-->
-```text
-Python       8 hrs 15 mins   ████████████░░░░░░░░░░░░░   48.2%
-JavaScript   4 hrs 30 mins   ██████░░░░░░░░░░░░░░░░░░░   26.3%
-TypeScript   2 hrs 45 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.1%
-SQL          1 hr 20 mins    ██░░░░░░░░░░░░░░░░░░░░░░░    7.8%
-Other        20 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░    2.6%
