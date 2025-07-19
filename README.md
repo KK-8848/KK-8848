@@ -63,27 +63,7 @@ I'm a passionate **Full Stack Developer** and **Machine Learning Enthusiast** wh
   <img src="https://github-profile-trophy.vercel.app/?username=KK-8848&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
-## 🔥 Featured Projects
 
-### 🤖 [AI-Powered Chat Application](https://github.com/yourusername/ai-chat-app)
-A full-stack chat application with integrated AI responses using OpenAI's GPT API. Features real-time messaging, user authentication, and intelligent conversation analysis.
-
-**Tech Stack:** Next.js, TypeScript, OpenAI API, Socket.io, PostgreSQL, Tailwind CSS
-
-### 📊 [ML Model Deployment Platform](https://github.com/yourusername/ml-deployment-platform)
-A web platform for deploying and managing machine learning models with RESTful APIs, model versioning, and performance monitoring.
-
-**Tech Stack:** React, FastAPI, Docker, MLflow, PostgreSQL, AWS
-
-### 🎯 [Predictive Analytics Dashboard](https://github.com/yourusername/predictive-dashboard)
-Interactive dashboard for data visualization and predictive modeling with real-time data processing and machine learning insights.
-
-**Tech Stack:** Vue.js, Python, TensorFlow, D3.js, Flask, MongoDB
-
-### 🛒 [E-commerce Recommendation Engine](https://github.com/yourusername/ecommerce-recommendations)
-#Full-stack e-commerce platform with AI-powered product recommendations using collaborative filtering and content-based algorithms.
-
-**Tech Stack:** React, Node.js, Python, Scikit-learn, Redis, PostgreSQL
 
 ## 📈 Contribution Activity
 
@@ -96,17 +76,23 @@ Interactive dashboard for data visualization and predictive modeling with real-t
 
 ## 🎓 Certifications & Learning
 
-- 🏅 **AWS Certified Solutions Architect**
-- 🏅 **Google Cloud Professional ML Engineer**
-- 🏅 **TensorFlow Developer Certificate**
-- 📚 Currently pursuing: **MLOps Specialization**
+-🎓 Certifications & Learning
+🏅 Machine Learning by Andrew Ng (Stanford University, via Coursera)
+
+🏅 Deep Learning Specialization – Neural Networks and Deep Learning (Andrew Ng, DeepLearning.AI)
+
+🎓 Introduction to Machine Learning – NPTEL (IIT Kharagpur, Prof. Sudeshna Sarkar)
+
+🔬 Currently exploring: Retrieval-Augmented Generation (RAG), Model Fine-tuning (LLaMA, Mistral, etc.), and building AI-powered applications with modern frameworks like LangChain, LlamaIndex, and OpenAI APIs
+
+
 
 ## 🤝 Let's Connect!
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)](https://yourportfolio.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white)]([https://yourportfolio.com](https://portfolio-kks-projects-69e73ffc.vercel.app/))
 
 </div>
 
